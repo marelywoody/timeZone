@@ -44,3 +44,7 @@ p {
   margin-bottom: 0.2em;
   background-image: linear-gradient(rgba(12, 23, 88, 0.945), rgba(51, 65, 146, 0.945));
 }
+
+.container {
+  margin-top: 12em;
+}
