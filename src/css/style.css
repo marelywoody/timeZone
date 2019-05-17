@@ -22,6 +22,7 @@ body {
 }
 
 .time {
+  margin-top: 1em;
   width: 200%;
   padding: 7px;
   text-align: center;
