@@ -6,7 +6,6 @@
 body {
   background-image: url('../assets/fondovector.jpg');
   background-size: cover;
-  height: 100%;
   background-repeat: no-repeat;
   font-size: 16px;
   color: #ffffff;
@@ -23,20 +22,24 @@ body {
 }
 
 .time {
-  width: 103%;
+  width: 200%;
+  padding: 7px;
+  text-align: center;
+  background-image: linear-gradient(rgba(12, 23, 88, 0.466), rgba(51, 65, 146, 0.342));
 }
 
 p {
   display: inline-block;
   line-height: 1em;
-  margin-bottom: 0em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.5em;
 }
 
 .title {
   width: 200%;
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
-  font-size: 1.5;
   margin-bottom: 0.2em;
   background-image: linear-gradient(rgba(12, 23, 88, 0.945), rgba(51, 65, 146, 0.945));
 }
