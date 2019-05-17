@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url('../assets/fondovector.jpg');
+  background-size: cover;
+  height: 100%;
+  background-repeat: no-repeat;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.col {
+  width: 90%;
+  max-width: 1000px;
+} 
+
+.container-country {
+  width: 50%;
+  margin: 1em;
+}
+
+.time {
+  width: 103%;
+}
+
+p {
+  display: inline-block;
+  line-height: 1em;
+  margin-bottom: 0em;
+}
+
+.title {
+  width: 200%;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  font-size: 1.5;
+  margin-bottom: 0.2em;
+  background-image: linear-gradient(rgba(12, 23, 88, 0.945), rgba(51, 65, 146, 0.945));
+}
