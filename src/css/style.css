@@ -48,3 +48,10 @@ p {
 .container {
   margin-top: 12em;
 }
+
+@media screen and (max-width:575px) {
+  .container {
+    margin-left: -1em;
+    padding-bottom: 100%;
+  } 
+}
